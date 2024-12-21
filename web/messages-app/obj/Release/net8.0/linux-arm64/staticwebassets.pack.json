@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\program.js",
+      "PackagePath": "staticwebassets\\program.js"
+    },
+    {
+      "Id": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-arm64\\staticwebassets\\msbuild.build.messages_api.props",
+      "PackagePath": "build\\messages_api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-arm64\\staticwebassets\\msbuild.buildMultiTargeting.messages_api.props",
+      "PackagePath": "buildMultiTargeting\\messages_api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-arm64\\staticwebassets\\msbuild.buildTransitive.messages_api.props",
+      "PackagePath": "buildTransitive\\messages_api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-arm64\\staticwebassets\\msbuild.messages_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

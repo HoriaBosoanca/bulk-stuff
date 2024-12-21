@@ -1,0 +1,17 @@
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\messages_api
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\appsettings.Development.json
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\appsettings.json
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\messages_api.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\messages_api.runtimeconfig.json
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\messages_api.pdb
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Microsoft.OpenApi.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Npgsql.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\bin\Release\net8.0\linux-arm64\publish\messages_api.deps.json

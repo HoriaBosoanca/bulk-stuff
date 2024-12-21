@@ -1,0 +1,80 @@
+.title-text{
+    text-align: center;
+    color: darkred;
+    font-size: 6vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+.header{
+    border-radius: 2vh;
+    margin-left: 25%;
+    width: 50%;
+    height: 10vh;
+    background-color: grey;
+}
+
+.messagebox-border{
+    border-radius: 2vh;
+    overflow: hidden;
+    margin-top: 5vh;
+    background-color: grey;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.messagebox-border-inner{
+    border-radius: 2vh;
+    overflow: hidden;
+    margin-top: 5vh;
+    background-color: black;
+    margin-left: 5%;
+    width: 90%;
+    height: 60vh;
+}
+
+.inputbox{
+    border-radius: 1vh;
+    overflow: hidden;
+    background-color: lightgray;
+    width: 80%;
+    height: 3vh;
+    margin-left: 10%;
+    font-size: 3vh;
+    color: darkred;
+    margin-top: 0.75vh;
+}
+
+.empty{
+    height: 5vh;
+}
+
+.messagebox{
+    border-radius: 2vh;
+    overflow: auto;
+    margin-top: 5vh;
+    margin-left: 5%;
+    width: 90%;
+    background-color: gray;
+    height: 50vh;
+}
+
+.message{
+    color: white;
+    font-size: 3vh;
+    margin-top: 0.75vh;
+}
+
+.message-div{
+    overflow: hidden;
+    margin-top: 1vh;
+    background-color: darkred;
+    border-radius: 1vh;
+    width: 90%;
+    height: 5vh;
+    margin-left: 5%;
+}

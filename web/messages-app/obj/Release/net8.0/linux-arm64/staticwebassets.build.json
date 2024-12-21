@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "mz4o4oXlg0Yn8MP42BiDaEYGcOL2/yt7N6SRgqCcls0=",
+  "Source": "messages_api",
+  "BasePath": "_content/messages_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "messages_api\\wwwroot",
+      "Source": "messages_api",
+      "ContentRoot": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\",
+      "BasePath": "_content/messages_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\index.html",
+      "SourceId": "messages_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\",
+      "BasePath": "_content/messages_api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\program.js",
+      "SourceId": "messages_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\",
+      "BasePath": "_content/messages_api",
+      "RelativePath": "program.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\program.js"
+    },
+    {
+      "Identity": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\style.css",
+      "SourceId": "messages_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\horia\\Desktop\\projects\\cs\\messages_api\\wwwroot\\",
+      "BasePath": "_content/messages_api",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
